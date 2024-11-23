@@ -1,5 +1,6 @@
 📊 Tableau Trading Dashboard: A Dynamic Proof of Concept
 Overview
+
 I developed a comprehensive Tableau Trading Dashboard by connecting to a test database and leveraging advanced querying techniques to extract and visualize key insights. This project demonstrated my expertise in data integration, SQL, and business intelligence solutions tailored for financial analysis.
 
 Tools & Technologies Used
